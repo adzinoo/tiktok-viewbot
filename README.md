@@ -1,2 +1,5 @@
-# tiktok-viewbot
-Free TikTok Viewbot. 
+
+# https://tiktool.pro
+* No ads
+* No downloads
+* Instant sending
